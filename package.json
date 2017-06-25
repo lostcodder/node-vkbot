@@ -1,5 +1,5 @@
 {
-  "name": "vkbot",
+  "name": "node-vkbot",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/lostcodder/vkbot.git"
   },
-  "author": "",
+  "author": "lostcodder",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lostcodder/vkbot/issues"
