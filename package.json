@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lostcodder/vkbot.git"
+    "url": "git+https://github.com/lostcodder/node-vkbot.git"
   },
   "author": "lostcodder",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lostcodder/vkbot/issues"
+    "url": "https://github.com/lostcodder/node-vkbot/issues"
   },
-  "homepage": "https://github.com/lostcodder/vkbot#readme"
+  "homepage": "https://github.com/lostcodder/node-vkbot#readme"
 }
