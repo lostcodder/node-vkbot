@@ -1,0 +1,300 @@
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:11:29.155Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:11:29.156Z"}
+{"level":"warning","message":"{\"error\":{\"error_code\":5,\"error_msg\":\"User authorization failed: no access_token passed.\",\"request_params\":[{\"key\":\"oauth\",\"value\":\"1\"},{\"key\":\"method\",\"value\":\"messages.getLongPollServer\"},{\"key\":\"v\",\"value\":\"5.60\"}]}}","timestamp":"2017-06-25T17:11:29.157Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:11:29.157Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:11:29.157Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:12:20.613Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:12:20.614Z"}
+{"level":"warning","message":"{\"error\":{\"error_code\":5,\"error_msg\":\"User authorization failed: no access_token passed.\",\"request_params\":[{\"key\":\"oauth\",\"value\":\"1\"},{\"key\":\"method\",\"value\":\"messages.getLongPollServer\"},{\"key\":\"v\",\"value\":\"5.60\"}]}}","timestamp":"2017-06-25T17:12:20.615Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:12:20.615Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:12:20.615Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:28:37.263Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:28:37.264Z"}
+{"level":"warning","message":"{\"error\":{\"error_code\":5,\"error_msg\":\"User authorization failed: no access_token passed.\",\"request_params\":[{\"key\":\"oauth\",\"value\":\"1\"},{\"key\":\"method\",\"value\":\"messages.getLongPollServer\"},{\"key\":\"v\",\"value\":\"5.60\"}]}}","timestamp":"2017-06-25T17:28:37.265Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:28:37.265Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:28:37.265Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:29:44.582Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:29:44.583Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"530a8ac5cabe4fa4dad520d80f4ca8f2a25ccd37\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732453}}","timestamp":"2017-06-25T17:29:44.584Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:29:44.584Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:29:44.584Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:30:31.989Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:30:31.990Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"9bd197f80df9d3f0f37f0405edbd361ad30d0849\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732464}}","timestamp":"2017-06-25T17:30:31.990Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:30:31.991Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:30:31.991Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:32:18.245Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:32:18.246Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"16240021489f95bc8a6db9745e7c5d3a028142b5\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732479}}","timestamp":"2017-06-25T17:32:18.246Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:32:18.247Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:32:18.247Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:33:53.755Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:33:53.756Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"441620c1b65dcf192c71e0631a2c7fc1a55ec5bd\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732500}}","timestamp":"2017-06-25T17:33:53.757Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:33:53.757Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:33:53.757Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:37:44.671Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:37:44.673Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"d143b47cadb5d1249212f2646d00363c38b71f1b\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732614}}","timestamp":"2017-06-25T17:37:44.673Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:37:44.673Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:37:44.674Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:38:52.275Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:38:52.277Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"492b23d649b10b24ecdea3713521054ab088b583\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732647}}","timestamp":"2017-06-25T17:38:52.277Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:38:52.278Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:38:52.278Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:40:13.951Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:40:13.952Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"42750fcf265fb3e19b53d9f1e4f8308f90e072be\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732699}}","timestamp":"2017-06-25T17:40:13.952Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:40:13.953Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:40:13.953Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:42:34.284Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:42:34.286Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"a9d6c24a502c948cfcf0ab72080eb278c6301a50\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732754}}","timestamp":"2017-06-25T17:42:34.287Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:42:34.287Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:42:34.287Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:43:15.764Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:43:15.766Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"df8a512286ce31397bb97089f1df43d0defed68e\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732774}}","timestamp":"2017-06-25T17:43:15.766Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:43:15.767Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:43:15.767Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:44:24.247Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:44:24.249Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"3fdb37d352f6bbdfbd3abbacde093b187dc91f34\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732797}}","timestamp":"2017-06-25T17:44:24.249Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:44:24.249Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:44:24.250Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:45:00.687Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:45:00.688Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"d0a1de3c2ee3dd04ee57d9e097e4c3c52c393898\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732805}}","timestamp":"2017-06-25T17:45:00.688Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:45:00.689Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:45:00.689Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:45:12.371Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:45:12.372Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"036660b9fdea79b6f1b4f5d48edccd0748d14d47\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732810}}","timestamp":"2017-06-25T17:45:12.373Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:45:12.373Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:45:12.373Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:46:58.603Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:46:58.604Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"25f5cf1db9cb9f2c87cfdad0a59e48231dd97072\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732864}}","timestamp":"2017-06-25T17:46:58.605Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:46:58.605Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:46:58.605Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:47:30.683Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:47:30.684Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"64348da3abb1cae7d61424fbabdfc180d0aabb0d\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732882}}","timestamp":"2017-06-25T17:47:30.685Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:47:30.685Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:47:30.685Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:47:52.275Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:47:52.277Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"ef7d0ffe9ec5756235002b3ac9e334db8ad848ed\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732902}}","timestamp":"2017-06-25T17:47:52.277Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:47:52.278Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:47:52.278Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:49:16.675Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:49:16.676Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"8712ccbb93af8c7947a84eb6b26aff0b2ee88501\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732936}}","timestamp":"2017-06-25T17:49:16.677Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:49:16.677Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:49:16.678Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:50:02.029Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:50:02.030Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"5a8b922edddd55ad68b37681c5f07980512939b1\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732966}}","timestamp":"2017-06-25T17:50:02.031Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:50:02.031Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:50:02.032Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:50:37.787Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:50:37.788Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"e7cdcd18633cde23cde723a488b7bcf19c099cd4\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762732988}}","timestamp":"2017-06-25T17:50:37.789Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:50:37.789Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:50:37.789Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:51:47.874Z"}
+{"url":"https://api.vk.com/method/users.get","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:51:47.877Z"}
+{"level":"warning","message":"{\"response\":[{\"id\":380073932,\"first_name\":\"Princess\",\"last_name\":\"Luna\"}]}","timestamp":"2017-06-25T17:51:47.878Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:51:47.880Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:51:47.880Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"ee5d466a4e838a59c0b5fe0a08bd8ccf2c41fe09\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733005}}","timestamp":"2017-06-25T17:51:47.881Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:51:47.881Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:51:47.881Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:52:23.536Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:52:23.537Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"81407e3023341dd9aca650b27240fcdd5bb371a3\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733008}}","timestamp":"2017-06-25T17:52:23.537Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:52:23.538Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:52:23.538Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:52:55.530Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:52:55.531Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"12d483977f34c95f78aa51ab5444007a28f891ee\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733018}}","timestamp":"2017-06-25T17:52:55.532Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:52:55.532Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:52:55.532Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:54:55.207Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:54:55.208Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"afcbeedfb409b0c6e06dff0677e1dd8ae2dca0eb\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733112}}","timestamp":"2017-06-25T17:54:55.208Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:54:55.209Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:54:55.209Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:55:22.186Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:55:22.187Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"45dab3fe560b431fa979d6c3db0f438e0ad91651\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733131}}","timestamp":"2017-06-25T17:55:22.188Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:55:22.188Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:55:22.188Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:55:37.283Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:55:37.284Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"3c492c4effb0b45dd407fa7ec16c6862017d6254\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733145}}","timestamp":"2017-06-25T17:55:37.285Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:55:37.285Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:55:37.286Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:56:18.990Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:56:18.991Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"fcb2b68026b3684a856a112718c75608b61718ac\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733180}}","timestamp":"2017-06-25T17:56:18.991Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:56:18.992Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:56:18.992Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:57:03.783Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:57:03.784Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"f64534fd025a61fa5092d5022b4c784daa24e5a9\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733225}}","timestamp":"2017-06-25T17:57:03.785Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:57:03.785Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:57:03.785Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:57:19.874Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:57:19.875Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"4407588bb4a58c4f1e4e998840aa0d5a34b7cc81\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733234}}","timestamp":"2017-06-25T17:57:19.876Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:57:19.876Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:57:19.876Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T17:57:48.248Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T17:57:48.249Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"ecb96fd50abadbe6731a89293e8fdf3d6cdd55c5\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733270}}","timestamp":"2017-06-25T17:57:48.249Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T17:57:48.250Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T17:57:48.250Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T18:00:18.941Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T18:00:18.943Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"6187ee40e7686385c54302a9eaa350a4a50c44b6\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733485}}","timestamp":"2017-06-25T18:00:18.943Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T18:00:18.944Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T18:00:18.944Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T18:00:38.182Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T18:00:38.184Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"94c7ca3c49fbceda350a6932fc38c976cfc18941\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733512}}","timestamp":"2017-06-25T18:00:38.184Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T18:00:38.185Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T18:00:38.185Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T18:01:00.132Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T18:01:00.133Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"d70d1a74cf583559604cb0aff3ec40270bc0a38f\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733539}}","timestamp":"2017-06-25T18:01:00.134Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T18:01:00.134Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T18:01:00.134Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T18:01:41.871Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T18:01:41.873Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"e65da2e2a2b385a2de1aba9361360d428532d830\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733579}}","timestamp":"2017-06-25T18:01:41.873Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T18:01:41.874Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T18:01:41.874Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T18:03:48.972Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T18:03:48.974Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"a7f2dc2d864f2d1f5c283a257a5dfee29fc725cc\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733691}}","timestamp":"2017-06-25T18:03:48.974Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T18:03:48.974Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T18:03:48.975Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T18:05:47.442Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T18:05:47.444Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"ac4c4bb37b69c48433e86760de5327ffabc0afa8\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762733867}}","timestamp":"2017-06-25T18:05:47.444Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T18:05:47.445Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T18:05:47.445Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T18:07:48.336Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T18:07:48.337Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"00b36c4baa1930a1a37a153a16dd4a4930c3a552\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762734029}}","timestamp":"2017-06-25T18:07:48.337Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T18:07:48.338Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T18:07:48.338Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T18:08:47.179Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T18:08:47.180Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"ffb3671ee6d6490e8309396b3aea1cafd5415bb6\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762734104}}","timestamp":"2017-06-25T18:08:47.181Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T18:08:47.181Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T18:08:47.181Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T18:10:24.776Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T18:10:24.778Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"75209e426f88fb5a8f4ce8a8d9f01ab9d0857ec8\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762734217}}","timestamp":"2017-06-25T18:10:24.778Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T18:10:24.778Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T18:10:24.779Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T18:11:33.578Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T18:11:33.579Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"63bbe0b65d2f66bb29cf6d83f54d2592c3784114\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762734312}}","timestamp":"2017-06-25T18:11:33.580Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T18:11:33.580Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T18:11:33.580Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T18:11:43.492Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T18:11:43.493Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"8ca3bba7f172d0c9bc401126a14a548ecc5f3a86\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762734318}}","timestamp":"2017-06-25T18:11:43.494Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T18:11:43.494Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T18:11:43.495Z"}
+{"message":"Cannot read property 'pollQuery' of undefined","stack":"TypeError: Cannot read property 'pollQuery' of undefined\n    at C:\\Users\\Vetal\\vkbot\\longPoll.js:97:17\n    at C:\\Users\\Vetal\\vkbot\\longPoll.js:33:17\n    at Request._callback (C:\\Users\\Vetal\\vkbot\\index.js:96:21)\n    at Request.self.callback (C:\\Users\\Vetal\\vkbot\\node_modules\\request\\request.js:188:22)\n    at emitTwo (events.js:106:13)\n    at Request.emit (events.js:191:7)\n    at Request.<anonymous> (C:\\Users\\Vetal\\vkbot\\node_modules\\request\\request.js:1171:10)\n    at emitOne (events.js:96:13)\n    at Request.emit (events.js:188:7)\n    at IncomingMessage.<anonymous> (C:\\Users\\Vetal\\vkbot\\node_modules\\request\\request.js:1091:12)","level":"warning","timestamp":"2017-06-25T18:15:55.535Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T18:15:55.538Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T18:15:55.539Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"9b19caeef5fd57674c89b0979ef101e728d3466b\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762734655}}","timestamp":"2017-06-25T18:15:55.539Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T18:15:55.539Z"}
+{"level":"warning","message":"Retry after ","timestamp":"2017-06-25T18:15:55.540Z"}
+{"level":"warning","message":"pollRequest fail 3 TypeError: Cannot set property 'ts' of undefined","timestamp":"2017-06-25T18:28:33.451Z"}
+{"level":"warning","message":"Retry after 5000 sec","timestamp":"2017-06-25T18:28:33.452Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T19:16:46.835Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T19:16:46.836Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"3e24d05b8ea54572ce22dcae4b76df4876db0604\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762742072}}","timestamp":"2017-06-25T19:16:46.837Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T19:16:46.837Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T19:16:46.837Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-25T19:18:15.637Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T19:18:15.639Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T19:18:18.995Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T19:18:18.995Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"2836bb78171bc99366fdf68e80b2a352def09eab\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762742112}}","timestamp":"2017-06-25T19:18:18.996Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T19:18:18.996Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T19:18:18.996Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-25T19:20:24.043Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T19:20:24.044Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T19:20:27.688Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T19:20:27.688Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"06d76b174dc0bfa15f2744e0f3cb0c2c59091d15\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762742479}}","timestamp":"2017-06-25T19:20:27.689Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T19:20:27.689Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T19:20:27.689Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-25T19:21:29.385Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T19:21:29.386Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T19:24:40.259Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T19:24:40.260Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"f3e86a70c4781e91e4ee0744f818267c62834355\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762742808}}","timestamp":"2017-06-25T19:24:40.260Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T19:24:40.261Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T19:24:40.261Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-25T19:24:43.415Z"}
+{"url":"https://api.vk.com/method/messages.getLongPollServer","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-25T19:24:43.416Z"}
+{"level":"warning","message":"{\"response\":{\"key\":\"9c173d85deee817e782bb7c8c1242f798ae9080b\",\"server\":\"imv4.vk.com\\/im1932\",\"ts\":1762742809}}","timestamp":"2017-06-25T19:24:43.416Z"}
+{"level":"warning","message":"getServer fail: ","timestamp":"2017-06-25T19:24:43.417Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T19:24:43.417Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-25T20:05:10.568Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T20:05:10.569Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-25T20:05:16.255Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T20:05:16.256Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-25T20:07:06.025Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T20:07:06.027Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-25T20:08:18.804Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T20:08:18.806Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-25T20:09:15.579Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T20:09:15.580Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-25T20:11:32.701Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T20:11:32.702Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-25T20:14:33.910Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T20:14:33.911Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-25T20:18:54.082Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T20:18:54.083Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-25T20:21:32.327Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T20:21:32.329Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-25T20:21:38.030Z"}
+{"level":"warning","message":"Retry after 3000 sec","timestamp":"2017-06-25T20:21:38.031Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-26T00:26:47.903Z"}
+{"url":"https://api.vk.com/method/users.get","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-26T00:26:47.905Z"}
+{"level":"warning","message":"{\"response\":[{\"id\":380073932,\"first_name\":\"Princess\",\"last_name\":\"Luna\"}]}","timestamp":"2017-06-26T00:26:47.906Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-26T00:27:16.398Z"}
+{"url":"https://api.vk.com/method/users.get","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-26T00:27:16.399Z"}
+{"level":"warning","message":"{\"response\":[{\"id\":380073932,\"first_name\":\"Princess\",\"last_name\":\"Luna\"}]}","timestamp":"2017-06-26T00:27:16.400Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-26T00:29:48.586Z"}
+{"url":"https://api.vk.com/method/users.get","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-26T00:29:48.587Z"}
+{"level":"warning","message":"{\"response\":[{\"id\":380073932,\"first_name\":\"Princess\",\"last_name\":\"Luna\"}]}","timestamp":"2017-06-26T00:29:48.588Z"}
+{"level":"warning","message":"vkQuery fail 2:","timestamp":"2017-06-26T00:32:48.545Z"}
+{"url":"https://api.vk.com/method/users.get","body":"access_token=9e8fa600d85a2f74ab7d5759b8de03cb28e49cd0e45c012256c0ba91c950e3b027174dc9a166f92c702d5&v=5.60","level":"warning","message":"","timestamp":"2017-06-26T00:32:48.546Z"}
+{"level":"warning","message":"{\"response\":[{\"id\":380073932,\"first_name\":\"Princess\",\"last_name\":\"Luna\"}]}","timestamp":"2017-06-26T00:32:48.547Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-26T02:57:03.549Z"}
+{"level":"warning","message":"Retry after 3 sec","timestamp":"2017-06-26T02:57:03.549Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-26T02:57:52.952Z"}
+{"level":"warning","message":"Retry after 3 sec","timestamp":"2017-06-26T02:57:52.952Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-26T02:59:31.314Z"}
+{"level":"warning","message":"Retry after undefined sec","timestamp":"2017-06-26T02:59:31.314Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-26T03:00:21.362Z"}
+{"level":"warning","message":"Retry after undefined sec","timestamp":"2017-06-26T03:00:21.362Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-26T03:02:23.248Z"}
+{"level":"warning","message":"Retry after undefined sec","timestamp":"2017-06-26T03:02:23.248Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-26T03:03:46.009Z"}
+{"level":"warning","message":"Retry after undefined sec","timestamp":"2017-06-26T03:03:46.009Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-26T03:04:42.100Z"}
+{"level":"warning","message":"Retry after 3 sec","timestamp":"2017-06-26T03:04:42.100Z"}
+{"level":"warning","message":"pollRequest fail 4: Error: getaddrinfo ENOTFOUND undefined undefined:443","timestamp":"2017-06-26T03:05:22.475Z"}
+{"level":"warning","message":"Retry after 3 sec","timestamp":"2017-06-26T03:05:22.475Z"}
